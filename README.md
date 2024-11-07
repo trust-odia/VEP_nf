@@ -1,1 +1,1 @@
-# VEP_Nextflow
+# Nextflow: run VEP on whole exome sequencing data
